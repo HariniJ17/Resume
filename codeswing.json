@@ -1,0 +1,12 @@
+{
+  "title": "Harini Resume",
+  "description": "Interactive resume showcasing skills, projects, and contact information.",
+  "scripts": [
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/js/all.min.js"
+  ],
+  "styles": [
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css",
+    "style.css"
+  ],
+  "template": "html"
+}
